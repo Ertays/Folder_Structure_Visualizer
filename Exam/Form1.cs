@@ -11,5 +11,10 @@ namespace Exam
         {
             MessageBox.Show("Hello from Sasha!");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello from Danilo!");
+        }
     }
 }
