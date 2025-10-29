@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36623.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Folder_Structure_Visualizer", "Folder_Structure_Visualizer\Folder_Structure_Visualizer.csproj", "{BCE60463-1A2D-4D26-A984-1BA679700C67}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Folder_Structure_Visualizer", "Folder_Structure_Visualizer\Folder_Structure_Visualizer.csproj", "{D8CF42C9-5F46-4FD9-A07C-6B130B49DB0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BCE60463-1A2D-4D26-A984-1BA679700C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BCE60463-1A2D-4D26-A984-1BA679700C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BCE60463-1A2D-4D26-A984-1BA679700C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BCE60463-1A2D-4D26-A984-1BA679700C67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8CF42C9-5F46-4FD9-A07C-6B130B49DB0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CF42C9-5F46-4FD9-A07C-6B130B49DB0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CF42C9-5F46-4FD9-A07C-6B130B49DB0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CF42C9-5F46-4FD9-A07C-6B130B49DB0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {68673301-40A7-4B4D-91B6-BFC73B816904}
+		SolutionGuid = {BEC4F5FB-F39B-4E07-99DD-F2F2989D2250}
 	EndGlobalSection
 EndGlobal
