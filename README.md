@@ -40,7 +40,7 @@
 ## <img width="16" height="16" alt="arrow-button" src="https://github.com/user-attachments/assets/7d807deb-4130-45a5-adc2-5052ab2b2b86" /> How to Install
 1. 📥 Скачайте последнюю версию
 2. 📦 Распакуйте архив в нужную директорию
-3. 🖱️ Запустите `FolderStructureVisualizer.sln`
+3. 🖱️ Запустите `src.sln`
 4. 🎉 Начните работу с вашей файловой структурой!
 
 <div align="center">
@@ -58,4 +58,5 @@
 **Folder Structure Visualizer** - инструмент, созданный с ❤️ для пользователей
 
 [🚀 Начать использование](.src) • [📚 Документация](./docs) • [🐛 Сообщить о ошибке](https://github.com/)
+
 
